@@ -3,5 +3,5 @@ pandas
 numpy
 scikit-learn
 nltk
-tensorflow # if using NN, otherwise remove
+tensorflow
 scipy
